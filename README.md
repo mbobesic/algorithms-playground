@@ -23,6 +23,10 @@ Problem web-sites:
     * [FrogJump](https://codility.com/demo/take-sample-test/frog_jmp)
     * [PermMissingElem](https://codility.com/demo/take-sample-test/perm_missing_elem)
     * [PermCheck](https://codility.com/demo/take-sample-test/perm_check)
-
+    * [FrogRiverOne](https://codility.com/demo/take-sample-test/frog_river_one)
+    * [MaxCounters](https://codility.com/demo/take-sample-test/max_counters)
+    * [PassingCars](https://codility.com/demo/take-sample-test/passing_cars)
+    * [GenomicRangeQuery ](https://codility.com/demo/take-sample-test/genomic_range_query)
+      
 
 
