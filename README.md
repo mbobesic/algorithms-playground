@@ -29,5 +29,6 @@ Problem web-sites:
     * [GenomicRangeQuery](https://codility.com/demo/take-sample-test/genomic_range_query)
     * [MinAvgTwoSlice](https://codility.com/demo/take-sample-test/min_avg_two_slice)
     * [Distinct](https://codility.com/demo/take-sample-test/distinct)
+    * [MaxProductOfThree](https://codility.com/demo/take-sample-test/max_product_of_three)
 
 
