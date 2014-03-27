@@ -26,7 +26,7 @@ Problem web-sites:
     * [FrogRiverOne](https://codility.com/demo/take-sample-test/frog_river_one)
     * [MaxCounters](https://codility.com/demo/take-sample-test/max_counters)
     * [PassingCars](https://codility.com/demo/take-sample-test/passing_cars)
-    * [GenomicRangeQuery ](https://codility.com/demo/take-sample-test/genomic_range_query)
-      
+    * [GenomicRangeQuery](https://codility.com/demo/take-sample-test/genomic_range_query)
+    * [MinAvgTwoSlice](https://codility.com/demo/take-sample-test/min_avg_two_slice)
 
 
