@@ -28,5 +28,6 @@ Problem web-sites:
     * [PassingCars](https://codility.com/demo/take-sample-test/passing_cars)
     * [GenomicRangeQuery](https://codility.com/demo/take-sample-test/genomic_range_query)
     * [MinAvgTwoSlice](https://codility.com/demo/take-sample-test/min_avg_two_slice)
+    * [Distinct](https://codility.com/demo/take-sample-test/distinct)
 
 
