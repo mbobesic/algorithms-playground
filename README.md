@@ -31,5 +31,5 @@ Problem web-sites:
     * [Distinct](https://codility.com/demo/take-sample-test/distinct)
     * [MaxProductOfThree](https://codility.com/demo/take-sample-test/max_product_of_three)
     * [Triangle](https://codility.com/demo/take-sample-test/triangle)
-
+    * [NumberOfDiscIntersections](https://codility.com/demo/take-sample-test/number_of_disc_intersections)
 
