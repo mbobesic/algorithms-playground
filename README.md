@@ -33,3 +33,4 @@ Problem web-sites:
     * [Triangle](https://codility.com/demo/take-sample-test/triangle)
     * [NumberOfDiscIntersections](https://codility.com/demo/take-sample-test/number_of_disc_intersections)
     * [Brackets](https://codility.com/demo/take-sample-test/brackets)
+    * [Dominator](https://codility.com/demo/take-sample-test/dominator)
