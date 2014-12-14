@@ -40,3 +40,8 @@ Problem web-sites:
     * [StoneWall](https://codility.com/demo/take-sample-test/stone_wall)
     * [Nesting](https://codility.com/demo/take-sample-test/nesting)
     * [Dominator](https://codility.com/demo/take-sample-test/dominator)
+   
+* ##Spotify tech puzzles(Not tested):
+	* [Reversebinary](https://labs.spotify.com/puzzles/)
+	* [zipfsong](https://labs.spotify.com/puzzles/)
+	* [catvsdog](https://labs.spotify.com/puzzles/)
