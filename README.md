@@ -17,6 +17,8 @@ Problem web-sites:
     * [Lawnmower](https://code.google.com/codejam/contest/2270488/dashboard#s=p1)
     * [Tic-Tac-Toe-Tomek](https://code.google.com/codejam/contest/2270488/dashboard#s=p0&a=0)
     * [Bullseye](http://code.google.com/codejam/contest/2418487/dashboard#s=p0&a=0)
+    * [Magic Trick](https://code.google.com/codejam/contest/2974486/dashboard#s=p0)
+    * [Cookie Clicker Alpha](https://code.google.com/codejam/contest/2974486/dashboard#s=p1)
     
 * ##Codility:
     * [TapeEquilibrium ](https://codility.com/demo/take-sample-test/tape_equilibrium)
