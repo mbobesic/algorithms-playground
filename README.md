@@ -40,6 +40,7 @@ Problem web-sites:
     * [StoneWall](https://codility.com/demo/take-sample-test/stone_wall)
     * [Nesting](https://codility.com/demo/take-sample-test/nesting)
     * [Dominator](https://codility.com/demo/take-sample-test/dominator)
+    * [EquiLeader](https://codility.com/demo/take-sample-test/equi_leader)
    
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
