@@ -41,6 +41,8 @@ Problem web-sites:
     * [Nesting](https://codility.com/demo/take-sample-test/nesting)
     * [Dominator](https://codility.com/demo/take-sample-test/dominator)
     * [EquiLeader](https://codility.com/demo/take-sample-test/equi_leader)
+    * [MaxProfit](https://codility.com/demo/take-sample-test/max_profit)
+
    
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
