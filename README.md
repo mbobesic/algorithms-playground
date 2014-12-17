@@ -42,6 +42,7 @@ Problem web-sites:
     * [Dominator](https://codility.com/demo/take-sample-test/dominator)
     * [EquiLeader](https://codility.com/demo/take-sample-test/equi_leader)
     * [MaxProfit](https://codility.com/demo/take-sample-test/max_profit)
+    * [MaxSliceSum](https://codility.com/demo/take-sample-test/max_slice_sum)
 
    
 * ##Spotify tech puzzles(Not tested):
