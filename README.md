@@ -44,6 +44,8 @@ Problem web-sites:
     * [MaxProfit](https://codility.com/demo/take-sample-test/max_profit)
     * [MaxSliceSum](https://codility.com/demo/take-sample-test/max_slice_sum)
     * [MaxDoubleSliceSum](https://codility.com/demo/take-sample-test/max_double_slice_sum)
+    * [MinPerimiterRectangle](https://codility.com/demo/take-sample-test/min_perimeter_rectangle)
+    * [CountFactors](https://codility.com/demo/take-sample-test/count_factors)
 
    
 * ##Spotify tech puzzles(Not tested):
