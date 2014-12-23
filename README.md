@@ -47,7 +47,8 @@ Problem web-sites:
     * [MinPerimiterRectangle](https://codility.com/demo/take-sample-test/min_perimeter_rectangle)
     * [CountFactors](https://codility.com/demo/take-sample-test/count_factors)
 	* [Peaks](https://codility.com/demo/take-sample-test/peaks)
-   
+	* [Flags](https://codility.com/demo/take-sample-test/flags)
+	
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
 	* [zipfsong](https://labs.spotify.com/puzzles/)
