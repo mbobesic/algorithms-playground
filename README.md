@@ -48,6 +48,7 @@ Problem web-sites:
     * [CountFactors](https://codility.com/demo/take-sample-test/count_factors)
 	* [Peaks](https://codility.com/demo/take-sample-test/peaks)
 	* [Flags](https://codility.com/demo/take-sample-test/flags)
+	* [CountSemiprimes](https://codility.com/demo/take-sample-test/count_semiprimes)
 	
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
