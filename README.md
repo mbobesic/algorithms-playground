@@ -49,7 +49,8 @@ Problem web-sites:
 	* [Peaks](https://codility.com/demo/take-sample-test/peaks)
 	* [Flags](https://codility.com/demo/take-sample-test/flags)
 	* [CountSemiprimes](https://codility.com/demo/take-sample-test/count_semiprimes)
-	
+	* [ChocolatesByNumbers ](https://codility.com/demo/take-sample-test/chocolates_by_numbers)
+
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
 	* [zipfsong](https://labs.spotify.com/puzzles/)
