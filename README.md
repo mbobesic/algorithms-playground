@@ -51,6 +51,8 @@ Problem web-sites:
 	* [CountSemiprimes](https://codility.com/demo/take-sample-test/count_semiprimes)
 	* [ChocolatesByNumbers](https://codility.com/demo/take-sample-test/chocolates_by_numbers)
 	* [CommonPrimeDivisors](https://codility.com/demo/take-sample-test/common_prime_divisors)
+	* [Ladder](https://codility.com/demo/take-sample-test/ladder)
+	* [FibFrog ](https://codility.com/demo/take-sample-test/fib_frog)
 
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
