@@ -54,6 +54,7 @@ Problem web-sites:
 	* [Ladder](https://codility.com/demo/take-sample-test/ladder)
 	* [FibFrog ](https://codility.com/demo/take-sample-test/fib_frog)
 	* [MinMaxDivision](https://codility.com/demo/take-sample-test/min_max_division)
+	* [NailingPlanks](https://codility.com/demo/take-sample-test/nailing_planks)
 		
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
