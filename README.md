@@ -55,6 +55,9 @@ Problem web-sites:
 	* [FibFrog ](https://codility.com/demo/take-sample-test/fib_frog)
 	* [MinMaxDivision](https://codility.com/demo/take-sample-test/min_max_division)
 	* [NailingPlanks](https://codility.com/demo/take-sample-test/nailing_planks)
+	* [AbsDistinct](https://codility.com/demo/take-sample-test/abs_distinct)
+	* [CountDistinctSlices](https://codility.com/demo/take-sample-test/count_distinct_slices)
+	* [CountTriangles](https://codility.com/demo/take-sample-test/count_triangles)
 		
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
