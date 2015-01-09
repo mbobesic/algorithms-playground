@@ -58,6 +58,7 @@ Problem web-sites:
 	* [AbsDistinct](https://codility.com/demo/take-sample-test/abs_distinct)
 	* [CountDistinctSlices](https://codility.com/demo/take-sample-test/count_distinct_slices)
 	* [CountTriangles](https://codility.com/demo/take-sample-test/count_triangles)
+	* [MinAbsSumOfTwo](https://codility.com/demo/take-sample-test/min_abs_sum_of_two)
 		
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
