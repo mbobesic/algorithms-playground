@@ -59,6 +59,8 @@ Problem web-sites:
 	* [CountDistinctSlices](https://codility.com/demo/take-sample-test/count_distinct_slices)
 	* [CountTriangles](https://codility.com/demo/take-sample-test/count_triangles)
 	* [MinAbsSumOfTwo](https://codility.com/demo/take-sample-test/min_abs_sum_of_two)
+	* [TieRopes](https://codility.com/demo/take-sample-test/tie_ropes)
+	* [MaxNonoverlappingSegments](https://codility.com/demo/take-sample-test/max_nonoverlapping_segments)
 		
 * ##Spotify tech puzzles(Not tested):
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
