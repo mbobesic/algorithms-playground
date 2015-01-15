@@ -62,7 +62,7 @@ Problem web-sites:
 	* [TieRopes](https://codility.com/demo/take-sample-test/tie_ropes)
 	* [MaxNonoverlappingSegments](https://codility.com/demo/take-sample-test/max_nonoverlapping_segments)
 		
-* ##Spotify tech puzzles(Not tested):
+* ##Spotify tech puzzles:
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
 	* [zipfsong](https://labs.spotify.com/puzzles/)
 	* [catvsdog](https://labs.spotify.com/puzzles/)
