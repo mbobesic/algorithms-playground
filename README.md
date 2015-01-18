@@ -61,6 +61,7 @@ Problem web-sites:
 	* [MinAbsSumOfTwo](https://codility.com/demo/take-sample-test/min_abs_sum_of_two)
 	* [TieRopes](https://codility.com/demo/take-sample-test/tie_ropes)
 	* [MaxNonoverlappingSegments](https://codility.com/demo/take-sample-test/max_nonoverlapping_segments)
+	* [NumberSolitare](https://codility.com/demo/take-sample-test/number_solitaire)
 		
 * ##Spotify tech puzzles:
 	* [Reversebinary](https://labs.spotify.com/puzzles/)
