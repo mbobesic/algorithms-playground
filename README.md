@@ -8,7 +8,8 @@ Problem web-sites:
 * [Codility](https://codility.com/train/)
 * [Spoj](http://www.spoj.com/)
 * [Codeforces](http://codeforces.com/)
-
+* [Kattis](https://open.kattis.com/)
+ 
 #Solved problems:
 
 
@@ -63,7 +64,7 @@ Problem web-sites:
 	* [MaxNonoverlappingSegments](https://codility.com/demo/take-sample-test/max_nonoverlapping_segments)
 	* [NumberSolitare](https://codility.com/demo/take-sample-test/number_solitaire)
 		
-* ##Spotify tech puzzles:
-	* [Reversebinary](https://labs.spotify.com/puzzles/)
+* ##Kattis:
+	* [Reversebinary](https://open.kattis.com/problems/reversebinary)
 	* [zipfsong](https://labs.spotify.com/puzzles/)
 	* [catvsdog](https://labs.spotify.com/puzzles/)
