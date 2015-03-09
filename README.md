@@ -67,4 +67,8 @@ Problem web-sites:
 * ##Kattis:
 	* [Reversebinary](https://open.kattis.com/problems/reversebinary)
 	* [zipfsong](https://labs.spotify.com/puzzles/)
-	* [catvsdog](https://labs.spotify.com/puzzles/)
+	* [catvsdog](https://open.kattis.com/problems/catvsdog)
+	* [Ladder](https://open.kattis.com/problems/ladder)
+	* [Money Matters](https://open.kattis.com/problems/moneymatters)
+	* [Proving Equivalences](https://lifesum.kattis.com/problems/equivalences)
+	* [A Different Problem](https://open.kattis.com/problems/different)
