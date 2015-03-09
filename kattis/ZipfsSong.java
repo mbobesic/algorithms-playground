@@ -1,4 +1,4 @@
-package spotify;
+package kattis;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -28,16 +28,16 @@ public class ZipfsSong {
             st = new StringTokenizer(br.readLine());
             long listenedToCount = Long.parseLong(st.nextToken());
             String name = st.nextToken();
-            songs.add(new Song(name, listenedToCount*(i+1), i + 1));
+            songs.add(new Song(name, listenedToCount, i + 1));
         }
 
-        TreeSet<Song> result = new TreeSet<spotify.ZipfsSong.Song>(new Comparator<Song>() {
+        TreeSet<Song> result = new TreeSet<kattis.ZipfsSong.Song>(new Comparator<Song>() {
             @Override
             public int compare(Song song, Song song2) {
 
-                long listenedExpectedCompare = song2.quality - song.quality;
+                long listenedExpectedCompare = song2.getListenedToCount() * song2.getOrder() - song.getListenedToCount() * song.getOrder();
                 if (listenedExpectedCompare == 0) {
-                    return song.order - song2.order;
+                    return (int) (song.getOrder() - song2.getOrder());
                 }
                 if (listenedExpectedCompare < 0)
                 	return -1;
@@ -54,21 +54,41 @@ public class ZipfsSong {
         
 
         for (Song current : result) {
-            System.out.println(current.name);
+            System.out.println(current.getName());
         }
         br.close();
     }
 
-    static class Song {
-        String name;
-        long quality;
-        int order;
+    public static class Song {
+        private String name;
+        private long listenedToCount;
+        private long order;
 
-        public Song(String name, long quality, int order) {
+        public Song(String name, long listenedToCount, long order) {
             this.name = name;
-            this.quality = quality;
+            this.listenedToCount = listenedToCount;
             this.order = order;
         }
 
+        public String getName() {
+            return name;
+        }
+
+        public long getListenedToCount() {
+            return listenedToCount;
+        }
+
+        public long getOrder() {
+            return order;
+        }
+
+        @Override
+        public String toString() {
+            return "Song{" +
+                    "name='" + name + '\'' +
+                    ", listenedToCount=" + listenedToCount +
+                    ", order=" + order +
+                    '}';
+        }
     }
 }

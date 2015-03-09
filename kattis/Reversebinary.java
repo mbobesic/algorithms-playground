@@ -1,4 +1,4 @@
-package spotify;
+package kattis;
 
 import java.util.Scanner;
 
