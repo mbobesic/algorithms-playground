@@ -72,3 +72,5 @@ Problem web-sites:
 	* [Money Matters](https://open.kattis.com/problems/moneymatters)
 	* [Proving Equivalences](https://lifesum.kattis.com/problems/equivalences)
 	* [A Different Problem](https://open.kattis.com/problems/different)
+	* [Apparatus](https://open.kattis.com/problems/apparatus)
+	* [Toy Railway](https://open.kattis.com/problems/railway)
