@@ -75,3 +75,4 @@ Problem web-sites:
 	* [Apparatus](https://open.kattis.com/problems/apparatus)
 	* [Toy Railway](https://open.kattis.com/problems/railway)
 	* [Primepath](https://open.kattis.com/problems/primepath)
+	* [Get Shorty](https://open.kattis.com/problems/getshorty)
