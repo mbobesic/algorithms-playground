@@ -76,3 +76,4 @@ Problem web-sites:
 	* [Toy Railway](https://open.kattis.com/problems/railway)
 	* [Primepath](https://open.kattis.com/problems/primepath)
 	* [Get Shorty](https://open.kattis.com/problems/getshorty)
+	* [Streaming Statistics](https://spotify.kattis.com/problems/streamstats)
