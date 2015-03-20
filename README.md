@@ -23,7 +23,7 @@ Problem web-sites:
 
 * ##Hacker Rank
 	* [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/)
- 
+	* [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/)
 * ##Codility:
     * [TapeEquilibrium ](https://codility.com/demo/take-sample-test/tape_equilibrium)
     * [FrogJump](https://codility.com/demo/take-sample-test/frog_jmp)
