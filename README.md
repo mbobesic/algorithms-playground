@@ -20,7 +20,10 @@ Problem web-sites:
     * [Bullseye](http://code.google.com/codejam/contest/2418487/dashboard#s=p0&a=0)
     * [Magic Trick](https://code.google.com/codejam/contest/2974486/dashboard#s=p0)
     * [Cookie Clicker Alpha](https://code.google.com/codejam/contest/2974486/dashboard#s=p1)
-    
+
+* ##Hacker Rank
+	* [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/)
+ 
 * ##Codility:
     * [TapeEquilibrium ](https://codility.com/demo/take-sample-test/tape_equilibrium)
     * [FrogJump](https://codility.com/demo/take-sample-test/frog_jmp)
@@ -77,3 +80,4 @@ Problem web-sites:
 	* [Primepath](https://open.kattis.com/problems/primepath)
 	* [Get Shorty](https://open.kattis.com/problems/getshorty)
 	* [Streaming Statistics](https://spotify.kattis.com/problems/streamstats)
+	* [Winning Streak](https://open.kattis.com/problems/winningstreak)
