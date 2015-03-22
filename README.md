@@ -21,9 +21,14 @@ Problem web-sites:
     * [Magic Trick](https://code.google.com/codejam/contest/2974486/dashboard#s=p0)
     * [Cookie Clicker Alpha](https://code.google.com/codejam/contest/2974486/dashboard#s=p1)
 
+
 * ##Hacker Rank
 	* [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/)
 	* [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/)
+	* [Picking Cards](https://www.hackerrank.com/challenges/picking-cards)
+	* [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)
+
+    
 * ##Codility:
     * [TapeEquilibrium ](https://codility.com/demo/take-sample-test/tape_equilibrium)
     * [FrogJump](https://codility.com/demo/take-sample-test/frog_jmp)
@@ -67,6 +72,7 @@ Problem web-sites:
 	* [MaxNonoverlappingSegments](https://codility.com/demo/take-sample-test/max_nonoverlapping_segments)
 	* [NumberSolitare](https://codility.com/demo/take-sample-test/number_solitaire)
 		
+        
 * ##Kattis:
 	* [Reversebinary](https://open.kattis.com/problems/reversebinary)
 	* [zipfsong](https://labs.spotify.com/puzzles/)
