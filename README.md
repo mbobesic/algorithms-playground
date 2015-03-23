@@ -14,12 +14,12 @@ Problem web-sites:
 
 
 * ##Google Code Jam:
-    * [Minimum Scalar Product](http://code.google.com/codejam/contest/32016/dashboard#s=p0)
-    * [Lawnmower](https://code.google.com/codejam/contest/2270488/dashboard#s=p1)
-    * [Tic-Tac-Toe-Tomek](https://code.google.com/codejam/contest/2270488/dashboard#s=p0&a=0)
-    * [Bullseye](http://code.google.com/codejam/contest/2418487/dashboard#s=p0&a=0)
-    * [Magic Trick](https://code.google.com/codejam/contest/2974486/dashboard#s=p0)
-    * [Cookie Clicker Alpha](https://code.google.com/codejam/contest/2974486/dashboard#s=p1)
+    * [Minimum Scalar Product](http://code.google.com/codejam/contest/32016/dashboard#s=p0)([source](gcj/minimum-scalar-product/minimum-scalar-product.cpp))
+    * [Lawnmower](https://code.google.com/codejam/contest/2270488/dashboard#s=p1)([source](gcj/lawn-mower/lawn-mower.cpp))
+    * [Tic-Tac-Toe-Tomek](https://code.google.com/codejam/contest/2270488/dashboard#s=p0&a=0)([source](gcj/Tic-Tac-Toe-Tomek/tic-tac-toe-tomek.cpp))
+    * [Bullseye](http://code.google.com/codejam/contest/2418487/dashboard#s=p0&a=0)([source](gcj/Bullseye/bullseye.cpp))
+    * [Magic Trick](https://code.google.com/codejam/contest/2974486/dashboard#s=p0)([source](gcj/magic-trick/magic_trick.cpp))
+    * [Cookie Clicker Alpha](https://code.google.com/codejam/contest/2974486/dashboard#s=p1)([source](gcj/Cookie Clicker Alpha/cookie-clicker.cpp))
 
 
 * ##Hacker Rank
