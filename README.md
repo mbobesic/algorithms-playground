@@ -23,11 +23,11 @@ Problem web-sites:
 
 
 * ##Hacker Rank
-	* [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/)((source)[hacker_rank/TheMaximumSubarray.py])
-	* [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/)((source)[hacker_rank/Knapsack.py])
-	* [Picking Cards](https://www.hackerrank.com/challenges/picking-cards)((source)[hacker_rank/PickingCards.py])
-	* [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)((source)[hacker_rank/StockMaximize.py])
-	* [Red John Is Back](https://www.hackerrank.com/challenges/red-john-is-back)((source)[hacker_rank/RedJohnIsBack.py])
+	* [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/)([source](hacker_rank/TheMaximumSubarray.py))
+	* [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/)([source](hacker_rank/Knapsack.py))
+	* [Picking Cards](https://www.hackerrank.com/challenges/picking-cards)([source](hacker_rank/PickingCards.py))
+	* [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)([source](hacker_rank/StockMaximize.py))
+	* [Red John Is Back](https://www.hackerrank.com/challenges/red-john-is-back)([source](hacker_rank/RedJohnIsBack.py))
 
     
 * ##Codility:
