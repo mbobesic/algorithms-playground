@@ -27,6 +27,7 @@ Problem web-sites:
 	* [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/)
 	* [Picking Cards](https://www.hackerrank.com/challenges/picking-cards)
 	* [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)
+	* [Red John Is Back](https://www.hackerrank.com/challenges/red-john-is-back)
 
     
 * ##Codility:
