@@ -28,6 +28,8 @@ Problem web-sites:
 	* [Picking Cards](https://www.hackerrank.com/challenges/picking-cards)([source](hacker_rank/PickingCards.py))
 	* [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)([source](hacker_rank/StockMaximize.py))
 	* [Red John Is Back](https://www.hackerrank.com/challenges/red-john-is-back)([source](hacker_rank/RedJohnIsBack.py))
+	* [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)([source](hacker_rank/FibonacciModified.py))
+	* [Candies](https://www.hackerrank.com/challenges/candies)([source](hacker_rank/Candies.java))
 
     
 * ##Codility:
