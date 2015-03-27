@@ -30,8 +30,9 @@ Problem web-sites:
 	* [Red John Is Back](https://www.hackerrank.com/challenges/red-john-is-back)([source](hacker_rank/RedJohnIsBack.py))
 	* [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)([source](hacker_rank/FibonacciModified.py))
 	* [Candies](https://www.hackerrank.com/challenges/candies)([source](hacker_rank/Candies.java))
+	* [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)([source](hacker_rank/TheCoinChangeProblem.py))
 
-    
+
 * ##Codility:
     * [TapeEquilibrium ](https://codility.com/demo/take-sample-test/tape_equilibrium)
     * [FrogJump](https://codility.com/demo/take-sample-test/frog_jmp)
