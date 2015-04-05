@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/peaks
+# name: Peaks
+
 __author__ = 'mislav'
 
 def solution(A):

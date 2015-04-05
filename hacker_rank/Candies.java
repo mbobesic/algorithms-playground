@@ -1,3 +1,5 @@
+// link: https://www.hackerrank.com/challenges/candies
+// name: Candies
 package hacker_rank;
 
 import java.util.Scanner;

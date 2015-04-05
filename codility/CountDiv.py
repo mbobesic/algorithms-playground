@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/count_div
+# name: Count Div
 __author__ = 'mislav'
 
 def solution(A, B, K):

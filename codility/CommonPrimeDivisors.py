@@ -1,5 +1,5 @@
-# you can use print for debugging purposes, e.g.
-# print "this is a debug message"
+# link: https://codility.com/demo/take-sample-test/common_prime_divisors
+# name: Common Prime Divisors
 
 
 def solution(A, B):

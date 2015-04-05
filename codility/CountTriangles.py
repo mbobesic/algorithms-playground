@@ -1,7 +1,10 @@
+# link: https://codility.com/demo/take-sample-test/count_triangles
+# name: Count Triangles
 __author__ = 'mislav'
 
 # you can use print for debugging purposes, e.g.
 # print "this is a debug message"
+
 
 def solution(A):
     # write your code in Python 2.7

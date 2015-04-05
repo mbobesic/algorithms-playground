@@ -1,3 +1,7 @@
+# link: https://codility.com/demo/take-sample-test/nesting
+# name: Nesting
+
+
 def solution(S):
     # write your code in Python 2.6
     

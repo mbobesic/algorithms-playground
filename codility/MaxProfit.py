@@ -1,3 +1,7 @@
+# link: https://codility.com/demo/take-sample-test/max_profit
+# name: Max Profit
+
+
 __author__ = 'mislav'
 
 def solution(A):

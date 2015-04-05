@@ -1,3 +1,5 @@
+// link: https://labs.spotify.com/puzzles/
+// name: Zipfs Song
 package kattis;
 
 import java.io.BufferedReader;

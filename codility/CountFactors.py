@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/count_factors
+# name: Count Factors
 __author__ = 'mislav'
 
 from math import sqrt

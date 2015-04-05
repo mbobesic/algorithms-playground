@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/min_max_division
+# name: Min Max Division
 # you can use print for debugging purposes, e.g.
 # print "this is a debug message"
 

@@ -1,3 +1,7 @@
+# link: https://codility.com/demo/take-sample-test/tape_equilibrium
+# name: Tape Equilibrium
+
+
 def solution(A):
     # write your code in Python 2.6
     solution = sum(map(abs, A))

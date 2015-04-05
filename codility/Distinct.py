@@ -1,3 +1,7 @@
+# link: https://codility.com/demo/take-sample-test/distinct
+# name:Distinct
+
+
 def solution(A):
     
     if len(A) == 0:

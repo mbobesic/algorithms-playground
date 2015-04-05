@@ -1,3 +1,7 @@
+# link: https://codility.com/demo/take-sample-test/dominator
+# name: Dominator
+
+
 def solution(A):
     # write your code in Python 2.6
     

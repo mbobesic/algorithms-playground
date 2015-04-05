@@ -1,3 +1,5 @@
+# link: https://open.kattis.com/problems/primepath
+# name: Prime Path
 __author__ = 'mislav'
 
 from collections import deque

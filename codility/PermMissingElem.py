@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/perm_missing_elem
+# name: Perm Missing Element
+
 def solution(A):
     
     total = sum(A)

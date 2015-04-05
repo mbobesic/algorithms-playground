@@ -1,3 +1,5 @@
+// link: https://code.google.com/codejam/contest/2270488/dashboard#s=p1
+// name: Lawnmower
 #include<cstdio>
 #include<vector>
 

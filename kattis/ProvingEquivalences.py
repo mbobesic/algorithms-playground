@@ -1,3 +1,5 @@
+# link: https://open.kattis.com/problems/equivalences
+# name: Proving Equivalences
 __author__ = 'mislav'
 import sys
 visited = []

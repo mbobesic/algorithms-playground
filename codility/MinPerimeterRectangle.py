@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/min_perimeter_rectangle
+# name: Min Perimeter Rectangle
+
 __author__ = 'mislav'
 from math import sqrt
 

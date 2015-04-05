@@ -1,5 +1,8 @@
+# link: https://codility.com/demo/take-sample-test/min_abs_sum_of_two
+# name: Min Abs Sum Of Two
 # you can use print for debugging purposes, e.g.
 # print "this is a debug message"
+
 
 def solution(A):
     # write your code in Python 2.7

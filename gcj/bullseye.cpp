@@ -1,3 +1,6 @@
+// link: http://code.google.com/codejam/contest/2418487/dashboard#s=p0&a=0
+// name: Bullseye
+
 #include<cstdio>
 #include<vector>
 #include<cmath>

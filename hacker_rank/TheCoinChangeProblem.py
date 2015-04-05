@@ -1,3 +1,5 @@
+# link: https://www.hackerrank.com/challenges/coin-change
+# name:  The Coin Change Problem
 __author__ = 'mislav'
 
 

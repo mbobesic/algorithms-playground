@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/passing_cars
+# name: Passing Cars
+
 def solution(A):
     # write your code in Python 2.6
     

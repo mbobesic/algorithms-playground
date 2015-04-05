@@ -1,3 +1,5 @@
+# link: https://open.kattis.com/problems/ladder
+# name: Ladder
 __author__ = 'mislav'
 
 from math import sin, radians, ceil

@@ -1,3 +1,5 @@
+// link: https://labs.spotify.com/puzzles/
+// name: Zipfs Song
 #include<iostream>
 #include<string>
 #include<vector>

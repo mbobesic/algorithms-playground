@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/max_counters
+# name: Max Counters
+
 def solution(N, A):
     # write your code in Python 2.6
     solution = [0]*N

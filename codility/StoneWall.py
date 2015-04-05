@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/stone_wall
+# name: Stone Wall
 __author__ = 'mislav'
 
 

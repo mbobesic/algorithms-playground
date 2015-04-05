@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/ladder
+# name: Ladder
+
 __author__ = 'mislav'
 
 # you can use print for debugging purposes, e.g.

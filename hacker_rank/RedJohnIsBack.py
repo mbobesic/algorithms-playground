@@ -1,3 +1,5 @@
+# link: https://www.hackerrank.com/challenges/red-john-is-back
+# name: Red John is Back
 __author__ = 'mislav'
 
 

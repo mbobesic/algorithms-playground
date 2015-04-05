@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/genomic_range_query
+# name: Genomic Range Query
+
 def solution(S, P, Q):
     # write your code in Python 2.6
     

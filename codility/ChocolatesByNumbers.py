@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/chocolates_by_numbers
+# name: Chocolates By Numbers
 __author__ = 'mislav'
 
 

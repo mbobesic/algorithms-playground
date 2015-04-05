@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/triangle
+# name: Triangle
+
 def solution(A):
     A.sort()
     

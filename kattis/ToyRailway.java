@@ -1,3 +1,5 @@
+// link: https://open.kattis.com/problems/railway
+// name: Toy Railway
 package kattis;
 
 import java.io.BufferedOutputStream;

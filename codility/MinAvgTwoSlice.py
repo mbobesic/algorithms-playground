@@ -1,3 +1,7 @@
+# link: https://codility.com/demo/take-sample-test/min_avg_two_slice
+# name: Min Avg Two Slice
+
+
 def solution(A):
     # write your code in Python 2.6
     

@@ -1,3 +1,5 @@
+# link: https://www.hackerrank.com/challenges/maxsubarray/
+# name: The Maximum Subarray
 __author__ = 'mislav'
 
 

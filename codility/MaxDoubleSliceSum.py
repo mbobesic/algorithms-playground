@@ -1,3 +1,7 @@
+# link: https://codility.com/demo/take-sample-test/max_double_slice_sum
+# name: Max Double Slice Sum
+
+
 __author__ = 'mislav'
 
 

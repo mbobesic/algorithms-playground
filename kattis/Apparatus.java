@@ -1,3 +1,5 @@
+// link: https://open.kattis.com/problems/apparatus
+// name: Apparatus
 package kattis;
 
 import java.io.BufferedOutputStream;

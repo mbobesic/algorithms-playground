@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/perm_check
+# name: Perm Check
+
 def solution(A):
     
     help = [0] * len(A)

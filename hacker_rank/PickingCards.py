@@ -1,3 +1,5 @@
+# link: https://www.hackerrank.com/challenges/picking-cards
+# name: Picking Cards
 __author__ = 'mislav'
 
 

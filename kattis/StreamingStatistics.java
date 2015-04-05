@@ -1,3 +1,5 @@
+// link: https://spotify.kattis.com/problems/streamstats
+// name: Streaming Statistics
 package kattis;
 
 import java.io.BufferedOutputStream;

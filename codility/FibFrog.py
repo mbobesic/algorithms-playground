@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/fib_frog
+# name: FibFrog
 __author__ = 'mislav'
 
 # you can use print for debugging purposes, e.g.

@@ -1,3 +1,5 @@
+# link: https://www.hackerrank.com/challenges/unbounded-knapsack/
+# name: Knapsack
 __author__ = 'mislav'
 
 if __name__ == "__main__":

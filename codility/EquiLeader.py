@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/equi_leader
+# name: EquiLeader
 __author__ = 'mislav'
 
 

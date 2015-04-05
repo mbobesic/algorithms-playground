@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/count_distinct_slices
+# name: Count Distinct Slices
 __author__ = 'mislav'
 
 # you can use print for debugging purposes, e.g.

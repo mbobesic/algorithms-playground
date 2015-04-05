@@ -1,3 +1,5 @@
+# link: https://www.hackerrank.com/challenges/fibonacci-modified
+# name: Fibonacci Modified
 __author__ = 'mislav'
 
 if __name__ == "__main__":

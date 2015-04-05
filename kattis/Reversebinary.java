@@ -1,3 +1,5 @@
+// link: https://open.kattis.com/problems/reversebinary
+// name: Reverse Binary
 package kattis;
 
 import java.util.Scanner;

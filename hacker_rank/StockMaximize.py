@@ -1,3 +1,5 @@
+# link: https://www.hackerrank.com/challenges/stockmax
+# name: Stock Maximize
 __author__ = 'mislav'
 
 

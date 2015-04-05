@@ -1,3 +1,5 @@
+// link: https://code.google.com/codejam/contest/2270488/dashboard#s=p0&a=0
+// name: Tic-Tac-Toe-Tomek
 #define SIZE 4
 #include<cstdio>
 #include<vector>

@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/missing_integer
+# name: Missing Integer
+
 __author__ = 'mislav'
 
 

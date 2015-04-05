@@ -1,3 +1,5 @@
+// link: https://open.kattis.com/problems/winningstreak
+// name: Winning Streak
 package kattis;
 
 import java.util.Scanner;

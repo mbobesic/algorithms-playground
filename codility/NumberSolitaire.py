@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/number_solitaire
+# name: Number Solitare
 __author__ = 'mislav'
 
 # you can use print for debugging purposes, e.g.

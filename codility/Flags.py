@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/flags
+# name: Flags
+
 __author__ = 'mislav'
 
 def solution(A):

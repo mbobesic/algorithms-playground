@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/tie_ropes
+# name: Tie Ropes
 __author__ = 'mislav'
 
 # you can use print for debugging purposes, e.g.

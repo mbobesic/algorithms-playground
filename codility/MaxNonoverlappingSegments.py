@@ -1,3 +1,6 @@
+# link: https://codility.com/demo/take-sample-test/max_nonoverlapping_segments
+# name: Max Non Overlapping Segments
+
 __author__ = 'mislav'
 
 # you can use print for debugging purposes, e.g.

@@ -1,3 +1,5 @@
+// link: https://open.kattis.com/problems/catvsdog
+// name: Cats vs Dogs
 package kattis;
 
 import java.util.ArrayDeque;

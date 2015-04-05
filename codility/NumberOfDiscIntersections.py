@@ -1,3 +1,7 @@
+# link: https://codility.com/demo/take-sample-test/number_of_disc_intersections
+# name: Number Of Disc Intersections
+
+
 def solution(A):
     # write your code in Python 2.6
     if len(A)==0:

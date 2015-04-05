@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/nailing_planks
+# name: Nailing Planks
 __author__ = 'mislav'
 
 

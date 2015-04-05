@@ -1,5 +1,6 @@
+# link: https://open.kattis.com/problems/different
+# name: A Different Problem
 __author__ = 'mislav'
-
 
 
 if __name__ == "__main__":

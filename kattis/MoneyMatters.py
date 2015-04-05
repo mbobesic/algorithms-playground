@@ -1,3 +1,5 @@
+# link: https://open.kattis.com/problems/moneymatters
+# name: Money Matters
 __author__ = 'mislav'
 
 

@@ -1,3 +1,6 @@
+// link: http://code.google.com/codejam/contest/32016/dashboard#s=p0
+// name: Minimum Scalar Product
+
 #include<cstdio>
 #include<vector>
 #include<algorithm>

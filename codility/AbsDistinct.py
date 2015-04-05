@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/abs_distinct
+# name: Abs Distinct
 __author__ = 'mislav'
 
 # you can use print for debugging purposes, e.g.

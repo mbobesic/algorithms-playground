@@ -1,3 +1,5 @@
+# link: https://codility.com/demo/take-sample-test/brackets
+# name: Brackets
 opening = ['(','{','[']
 closing = [')','}',']']
 

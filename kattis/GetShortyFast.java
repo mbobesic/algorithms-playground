@@ -1,3 +1,5 @@
+// link: https://open.kattis.com/problems/getshorty
+// name: Get Shorty
 package kattis;
 
 import java.io.BufferedOutputStream;
