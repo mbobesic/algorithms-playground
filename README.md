@@ -70,6 +70,7 @@ Problem web-sites:
     * [A Different Problem](https://open.kattis.com/problems/different) ([source](kattis/ADifferentProblem.py))
     * [Apparatus](https://open.kattis.com/problems/apparatus) ([source](kattis/Apparatus.java))
     * [Cats vs Dogs](https://open.kattis.com/problems/catvsdog) ([source](kattis/CatvsDog.java))
+    * [Coast Length](https://open.kattis.com/problems/coast) ([source](kattis/CoastLength.java))
     * [Get Shorty](https://open.kattis.com/problems/getshorty) ([source](kattis/GetShortyFast.java))
     * [Ladder](https://open.kattis.com/problems/ladder) ([source](kattis/Ladder.py))
     * [Money Matters](https://open.kattis.com/problems/moneymatters) ([source](kattis/MoneyMatters.py))
