@@ -23,9 +23,13 @@ for folder in ${folders[*]};
     do
     name=${names[$folder]}
     printf "* ##%s\n" "$name"
-    for file in $folder/*;
+    for file in $(find $folder/);
         do 
         #echo $file
+        if [ -d "${file}" ] ; then
+            continue
+        fi 
+        
         first_line=$(grep "link:" $file)
         second_line=$(grep "name:" $file)
         link=${first_line##*link:}

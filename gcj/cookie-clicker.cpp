@@ -1,5 +1,5 @@
 // link: https://code.google.com/codejam/contest/2974486/dashboard#s=p1
-// name:  Cookie Clicker Alpha
+// name: Cookie Clicker Alpha
 #include<cstdio>
 #include<vector>
 #include <limits>
