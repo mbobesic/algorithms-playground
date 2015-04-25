@@ -16,6 +16,7 @@ Problem web-sites:
     * [Cookie Clicker Alpha](https://code.google.com/codejam/contest/2974486/dashboard#s=p1) ([source](gcj/cookie-clicker.cpp))
     * [Tic-Tac-Toe-Tomek](https://code.google.com/codejam/contest/2270488/dashboard#s=p0&a=0) ([source](gcj/tic-tac-toe-tomek.cpp))
     * [Mushroom Monster](https://code.google.com/codejam/contest/4224486/dashboard#s=p0) ([source](gcj/2015/1A/MushroomMonster.java))
+    * [haircut](https://code.google.com/codejam/contest/4224486/dashboard#s=p1&a=1) ([source](gcj/2015/1A/Haircut.java))
     * [Standing Ovation](https://code.google.com/codejam/contest/6224486/dashboard#s=p0) ([source](gcj/2015/Qualifications/StandingOvation.java))
     * [Dijkstra](https://code.google.com/codejam/contest/6224486/dashboard#s=p2) ([source](gcj/2015/Qualifications/Dijkstra.java))
     * [Ominous Omino](https://code.google.com/codejam/contest/6224486/dashboard#s=p3) ([source](gcj/2015/Qualifications/OminousOmino.java))
