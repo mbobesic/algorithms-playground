@@ -8,7 +8,8 @@ Problem web-sites:
 * [Spoj](http://www.spoj.com/)
 * [Codeforces](http://codeforces.com/)
 * [Kattis](https://open.kattis.com/)
-
+* [Code Eval](https://www.codeeval.com)
+* [UVA](https://uva.onlinejudge.org/)
 #Solved problems:
 
 
@@ -100,5 +101,3 @@ Problem web-sites:
     * [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back) ([source](hacker_rank/RedJohnIsBack.py))
     * [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/) ([source](hacker_rank/Knapsack.py))
     * [Picking Cards](https://www.hackerrank.com/challenges/picking-cards) ([source](hacker_rank/PickingCards.py))
-
-
