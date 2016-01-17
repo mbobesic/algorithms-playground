@@ -8,8 +8,7 @@ Problem web-sites:
 * [Spoj](http://www.spoj.com/)
 * [Codeforces](http://codeforces.com/)
 * [Kattis](https://open.kattis.com/)
-* [Code Eval](https://www.codeeval.com)
-* [UVA](https://uva.onlinejudge.org/)
+
 #Solved problems:
 
 
@@ -78,6 +77,7 @@ Problem web-sites:
     * [Money Matters](https://open.kattis.com/problems/moneymatters) ([source](kattis/MoneyMatters.py))
     * [Coast Length](https://open.kattis.com/problems/coast) ([source](kattis/CoastLength.java))
     * [Ladder](https://open.kattis.com/problems/ladder) ([source](kattis/Ladder.py))
+    * [Honeycomb Walk](https://open.kattis.com/problems/honey) ([source](kattis/HoneycombWalk.java))
     * [Toy Railway](https://open.kattis.com/problems/railway) ([source](kattis/ToyRailway.java))
     * [Winning Streak](https://open.kattis.com/problems/winningstreak) ([source](kattis/WinningStreak.java))
     * [Cats vs Dogs](https://open.kattis.com/problems/catvsdog) ([source](kattis/CatvsDog.java))
@@ -101,3 +101,5 @@ Problem web-sites:
     * [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back) ([source](hacker_rank/RedJohnIsBack.py))
     * [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/) ([source](hacker_rank/Knapsack.py))
     * [Picking Cards](https://www.hackerrank.com/challenges/picking-cards) ([source](hacker_rank/PickingCards.py))
+
+
