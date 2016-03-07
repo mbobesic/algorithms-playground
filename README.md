@@ -96,10 +96,10 @@ Problem web-sites:
     * [Stock Maximize](https://www.hackerrank.com/challenges/stockmax) ([source](hacker_rank/StockMaximize.py))
     * [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/) ([source](hacker_rank/TheMaximumSubarray.py))
     * [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) ([source](hacker_rank/FibonacciModified.py))
-    * [ The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) ([source](hacker_rank/TheCoinChangeProblem.py))
+    * [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) ([source](hacker_rank/TheCoinChangeProblem.py))
     * [Candies](https://www.hackerrank.com/challenges/candies) ([source](hacker_rank/Candies.java))
     * [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back) ([source](hacker_rank/RedJohnIsBack.py))
     * [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/) ([source](hacker_rank/Knapsack.py))
     * [Picking Cards](https://www.hackerrank.com/challenges/picking-cards) ([source](hacker_rank/PickingCards.py))
-
-
+    * [FlatLand Space Station](https://www.hackerrank.com/contests/worldcodesprint/challenges/powerplants-in-flatland) ([source](hacker_rank/FlatLandSpaceStation.java))
+    * [Mars Exploration](https://www.hackerrank.com/contests/worldcodesprint/challenges/save-our-ship) ([source](hacker_rank/MarsExploration.java))

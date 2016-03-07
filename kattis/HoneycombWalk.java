@@ -45,6 +45,7 @@ public class HoneycombWalk {
         for (int x : input){
             System.out.println(results[max][max][x]);
         }
+        in.close();
     }
 
     private static int max(int[] input) {
